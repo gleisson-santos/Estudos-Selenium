@@ -1,0 +1,55 @@
+1660593348115	geckodriver	INFO	Listening on 127.0.0.1:53327
+1660593351082	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53328" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilePoAZYF"
+1660593352025	Marionette	INFO	Marionette enabled
+1660593352031	Marionette	INFO	Listening on port 53340
+WebDriver BiDi listening on ws://localhost:53328
+Read port: 53340
+1660593352208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilePoAZYF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53328/devtools/browser/7b0716d3-2bab-408a-8ec7-aa5aa5e5952f
+JavaScript error: https://selenium.dunossauro.live/js/brython_modules.js, line 1: ReferenceError: __BRYTHON__ is not defined
+JavaScript error: https://selenium.dunossauro.live/js/brython_modules.js, line 1: ReferenceError: __BRYTHON__ is not defined
+1660594239403	Marionette	INFO	Stopped listening on port 53340
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660594246138	geckodriver	INFO	Listening on 127.0.0.1:53830
+1660594249137	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53831" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileCfATPB"
+1660594249870	Marionette	INFO	Marionette enabled
+1660594249875	Marionette	INFO	Listening on port 53838
+WebDriver BiDi listening on ws://localhost:53831
+Read port: 53838
+1660594250036	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileCfATPB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53831/devtools/browser/df81260c-6b94-444a-b7d0-56ca903b3294
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 421))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 421))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1660645503399	Marionette	INFO	Stopped listening on port 53838
+1661428618838	geckodriver	INFO	Listening on 127.0.0.1:55779
+1661428621851	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55780" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileQobiZU"
+1661428622375	Marionette	INFO	Marionette enabled
+1661428622378	Marionette	INFO	Listening on port 55788
+WebDriver BiDi listening on ws://localhost:55780
+Read port: 55788
+1661428622535	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileQobiZU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55780/devtools/browser/07ab6519-1097-401d-adf1-40ba5cff9be8
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://selenium.dunossauro.live/js/brython_modules.js, line 1: ReferenceError: __BRYTHON__ is not defined
+1661428980738	Marionette	INFO	Stopped listening on port 55788
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665060260358	geckodriver	INFO	Listening on 127.0.0.1:59321
+1665060263373	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59322" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileDprbzY"
+1665060264425	Marionette	INFO	Marionette enabled
+1665060264430	Marionette	INFO	Listening on port 59335
+WebDriver BiDi listening on ws://localhost:59322
+Read port: 59335
+1665060264601	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileDprbzY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59322/devtools/browser/181155ff-d422-4011-bbb7-f9281dfc4596
+1665060274866	Marionette	INFO	Stopped listening on port 59335
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

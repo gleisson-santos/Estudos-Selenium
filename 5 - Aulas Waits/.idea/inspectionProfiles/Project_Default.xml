@@ -1,0 +1,52 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="20">
+            <item index="0" class="java.lang.String" itemvalue="traitlets" />
+            <item index="1" class="java.lang.String" itemvalue="decorator" />
+            <item index="2" class="java.lang.String" itemvalue="six" />
+            <item index="3" class="java.lang.String" itemvalue="parso" />
+            <item index="4" class="java.lang.String" itemvalue="ptyprocess" />
+            <item index="5" class="java.lang.String" itemvalue="pickleshare" />
+            <item index="6" class="java.lang.String" itemvalue="ipython" />
+            <item index="7" class="java.lang.String" itemvalue="wcwidth" />
+            <item index="8" class="java.lang.String" itemvalue="pexpect" />
+            <item index="9" class="java.lang.String" itemvalue="w3lib" />
+            <item index="10" class="java.lang.String" itemvalue="jedi" />
+            <item index="11" class="java.lang.String" itemvalue="ipython-genutils" />
+            <item index="12" class="java.lang.String" itemvalue="parsel" />
+            <item index="13" class="java.lang.String" itemvalue="backcall" />
+            <item index="14" class="java.lang.String" itemvalue="selenium" />
+            <item index="15" class="java.lang.String" itemvalue="Pygments" />
+            <item index="16" class="java.lang.String" itemvalue="cssselect" />
+            <item index="17" class="java.lang.String" itemvalue="lxml" />
+            <item index="18" class="java.lang.String" itemvalue="prompt-toolkit" />
+            <item index="19" class="java.lang.String" itemvalue="urllib3" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N813" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="int.append" />
+          <option value="Material_02.win32" />
+          <option value="Material_02.win32com" />
+          <option value="selenium.webdriver.chrome.webdriver.WebDriver.*" />
+          <option value="str.to_excel" />
+          <option value="list.iterrows" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
